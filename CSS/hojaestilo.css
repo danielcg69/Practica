@@ -1,3 +1,11 @@
 *{margin: 10px; padding: 5;background-color: cornflowerblue;}
 header{background-color: aquamarine;text-align: center;}
-aside{border: rgb(240, 13, 13); color: blue; border-style: double;object-position: right;}
+
+article{text-align: justify; box-sizing: unset;   position: relative;
+    width: 400px;
+     border: 10px solid blue;}
+
+aside{ position: relative;
+    width: 400px;
+    height: 200px;
+    border: 3px solid red;}
